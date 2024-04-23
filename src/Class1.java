@@ -3,4 +3,5 @@ public class Class1 {
     mondjes toe;
 
     hallo x
+    bbbb
 }
